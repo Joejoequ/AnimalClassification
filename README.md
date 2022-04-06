@@ -1,12 +1,16 @@
-<center>
-<h1>CSCI4155 - 2021/2022 Winter</h1>
-<h1>Group Project</h1>
+# CSCI4155 - 2021/2022 Winter
+# Group Project
 
-<b>Group 10</b></br>
-Archer Zhou, zh978915@dal.ca</br>
-Yilong Su, yl480546@dal.ca</br>
-Yuxuan Wang, yuxuanw@dal.ca</br>
-</center>
+## Group Information
+Group Number: Group 10
+
+Group Members:
+
+|   Name    |       Email       |
+|   :--     |       :--:        |
+|Archer Zhou|   zh978915@dal.ca |
+|Yilong Su  |   yl480546@dal.ca |
+|Yuxuan Wang|   yuxuanw@dal.ca  |
 
 ## Description
 
