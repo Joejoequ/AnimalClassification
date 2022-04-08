@@ -11,6 +11,7 @@ Group Members:
 |Archer Zhou|   zh978915@dal.ca |
 |Yilong Su  |   yl480546@dal.ca |
 |Yuxuan Wang|   yuxuanw@dal.ca  |
+|Junqiao Qu |   jn679016@dal.ca |
 
 ## Description
 
