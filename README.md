@@ -12,5 +12,6 @@ Group Members:
 |Yilong Su  |   yl480546@dal.ca |
 |Junqiao Qu |   jn679016@dal.ca |
 
-## Description
+## Extra Information
+We started with four members, but one of us dropped the course before the project, so only three of us participated in the project.
 
